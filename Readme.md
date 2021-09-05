@@ -3,7 +3,7 @@
 </head>
 
 <h2 style="font-family: 'Fira Code', monospace;">
- NLW - Origin
+ Next Level Week - Origin
 </h2>
 
 <h3 style="font-family: 'Fira Code', monospace;">
