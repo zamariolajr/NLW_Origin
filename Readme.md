@@ -3,8 +3,8 @@
 </head>
 
 <h3 style="font-family: 'Fira Code', monospace;">
-  Projeto desenvolvido durante a NLW Origin da RocketSeat.
-  Desenvolvendo práticas em HTML, CSS e Javascript.
+  - Projeto desenvolvido durante a NLW Origin da RocketSeat.
+  - Desenvolvendo práticas em HTML, CSS e Javascript.
 </h3>
 
 <div style="display: inline_block"><br>
