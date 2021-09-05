@@ -2,9 +2,13 @@
  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 </head>
 
+<h2 style="font-family: 'Fira Code', monospace;">
+ NLW - Origin
+</h2>
+
 <h3 style="font-family: 'Fira Code', monospace;">
-  - Projeto desenvolvido durante a NLW Origin da RocketSeat.<br>
-  - Desenvolvendo práticas em HTML, CSS e Javascript.
+  Projeto desenvolvido durante a NLW Origin da RocketSeat.<br>
+  Desenvolvendo práticas em HTML, CSS e Javascript.
 </h3>
 
 <div style="display: inline_block"><br>
