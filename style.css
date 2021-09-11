@@ -400,6 +400,10 @@
                 padding: 4rem 1rem;
             }
             
+            .swiper-pagination {
+                position: relative;
+            }
+            
             .swiper-pagination-bullet {
                 width: 0.75rem;
                 height: 0.75rem;
